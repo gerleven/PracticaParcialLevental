@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">DAM-GUI01</string>
-    <string name="btn1Lbl">Hola Boton</string>
+    <string name="btn1Lbl">Hola Boton 1</string>
+    <string name="btn2Lbl">Hola Boton 2</string>
 </resources>
