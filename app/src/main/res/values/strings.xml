@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">DAM-GUI01</string>
-    <string name="btn1Lbl">Hola Boton 1</string>
-    <string name="btn2Lbl">Hola Boton 2</string>
-    <string name="hintEdit1">Ingresar numero</string>
-    <string name="hintEdit2">Ingresar texto</string>
-</resources>
